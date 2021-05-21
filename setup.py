@@ -20,7 +20,6 @@ setup(name='doctest',
                         'scipy',
                         'numpy',
                         'sympy>=1.7.1',
-                        'networkx',
                         'IPython',
                         'setuptools',
                         'wheel'
