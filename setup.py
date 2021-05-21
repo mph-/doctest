@@ -33,7 +33,6 @@ setup(name='doctest',
       },
       tests_require=tests_require,
       packages=find_packages(),
-      },
       classifiers=[
           "Programming Language :: Python :: 3",
           "License :: OSI Approved :: GNU Lesser General Public License v2 or later (LGPLv2+)",
